@@ -1,0 +1,15 @@
+.bg-info{
+	background-color: #d9edf7;
+	color: black;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.highlight{
+	font-weight: bold;
+	border-bottom: 1px solid black;
+}
+.uppercase{
+	text-transform: uppercase;
+}
